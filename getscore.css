@@ -1,0 +1,26 @@
+#no_record{
+    display: none;
+}
+
+#p_center{
+    text-align: center; 
+}
+
+#have_record{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+th, td {
+    padding: 5px;
+}
+
+th{
+    background-color: grey;
+}
+

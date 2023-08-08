@@ -1,0 +1,26 @@
+fieldset {
+    width: 50%;
+    margin: 0 auto;
+    background-color: lightblue;
+}
+
+#check_your_email{
+    display: none;
+    background-color: #CF9FFF;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    border-style: solid #CF9FFF;
+    border-radius: 10px; 
+}
+
+#error_unknown_user, #user_not_in_database, #OTP_expired, #session_expire, #wrong_secret{
+    display: none;
+    background-color: lightcoral;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    border-style: solid lightcoral;
+    border-radius: 10px; 
+}
+
